@@ -1,0 +1,346 @@
+<style>
+li a
+{
+	color: black;
+}
+
+
+.container-fluad
+{
+	background-image: url(truck.jpg);
+	height: 500px;
+
+	background-repeat: no-repeat;
+	color: white;
+	font-family: Poppins;
+	position: relative;
+	bottom: 40px;px;
+
+
+}
+input
+{
+	background-color: #E94404;
+	width: 160px;
+	height: 50px;
+	border-radius: 4px;
+	border: 1px solid #E94404;
+	color: white;
+	font-size: 25px;
+	position: relative;
+	top: 0px;
+	margin: 60px;
+}
+.h3a
+{
+	text-align: center;
+	color:  #E94404;
+	position: relative;
+	top: 60px;
+}
+
+.h3b
+{
+	text-align: center;
+	color:  #E94404;
+	position: relative;
+	bottom: 20px;
+	
+}
+.my
+{
+	text-align: center;
+}
+pre
+{
+color: #444444;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 15px;
+text-align: center;
+
+}
+.mys
+{
+	position: absolute;
+	top: 5px;
+	line-height: 15px;
+}
+.nav-link
+{
+	color: black;
+	position: relative;
+	top: 10px;
+	right: 70px;
+}
+.nav
+{
+font-size: 20px;
+position: relative;
+top: 10px;
+left: 100px;
+width: 500px;
+}
+#sapna
+{
+	height: 60px;
+	 position: relative;
+	 top: 10px;
+}
+.rowa
+{
+	height: 30px;
+}
+.dropdown
+{
+	position: relative;
+	top: 20px;
+
+}
+.spana
+{
+position: relative;
+left: 130px;
+top: 10px;
+font-size: 20px;
+}
+.spanb
+
+{
+
+position: relative;
+left:140px;
+color: #E94404;
+font-size: 20px;
+}
+
+.imga
+{
+	position: relative;
+	left: 100px;
+	top: 20px;
+	height:50px;
+	 width:40px;
+}
+.h2a
+{
+position: relative;
+top: 110px;
+margin: 60px;
+font-size: 50px;
+}
+
+.prea
+{
+position: relative;
+top: 50px;
+}
+.preb
+{
+position: relative;
+bottom: 20px;
+}
+
+.col
+{
+background-color: #FFFFFF;
+}
+.gmi
+{
+	border:2px solid #E94404;
+	border-radius: 50%;
+	padding: 50px;
+	height: 200px;
+
+}
+
+.ab
+{
+	border:2px solid #E94404;
+	border-radius: 50%;
+	padding: 50px;
+	height: 200px;
+
+}
+.abc
+{
+	border:2px solid #E94404;
+	border-radius: 50%;
+	padding: 50px;
+	height: 200px;
+	
+}
+
+.rt
+{
+	margin: 30px;
+	position: relative;
+	right: 20px;
+	bottom: 10px;
+}
+
+.ri
+{
+	margin: 30px;
+	position: relative;
+	right: 25px;
+	bottom: 15px;
+}
+.ro
+{
+	margin: 30px;
+	position: relative;
+	right: -6px;
+}
+.boxx
+{
+	color: white;
+	font-size: 27px;
+}
+#fff
+{
+background-color:  #E94404;
+opacity: 0.8;
+text-align: center;
+height: 120px;
+padding: 15px;
+position: relative;
+top: 10px;
+
+}
+ul
+{
+	list-style: none;
+	position: relative;
+	top: 70px;
+}
+.sohan
+{
+	background-color: #E94404;
+	width: 40px;
+	height: 40px;
+	border-radius: 4px;
+	position: relative;
+	top: 70px;
+}
+.power
+{
+	width:150px;
+	position: relative;
+	left: 15px;
+	height: 120px;
+}
+.h6a
+{
+"background-color:  #F2F2F2;
+height: 150px;
+width: 100%;
+color: #444444;
+position: relative;
+left: 30px;
+font-size: 23px;
+
+}
+.h6n
+{
+"background-color:  #F2F2F2;
+height: 150px;
+width: 100%;
+color: #444444;
+position: relative;
+left: 8px;
+font-size: 23px;
+
+}
+.arrowb
+{
+	position:relative;
+	left:215px;
+	bottom: 100px;
+	width: 150px;
+}
+.arrowc
+{
+	position:relative;
+	left:215px;
+	bottom: 100px;
+	width: 150px;
+}
+.vvm
+{
+	position: relative;
+	left: 90PX;
+	top: 70px; 
+	margin: 20px;
+	font-size: 20px;
+}
+.pink
+{
+	height: 300px;
+	color: #444;
+	margin: 50px;
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 6px;
+	border: 2px solid #E94404;
+}
+.ggg
+{
+	background-color: #F2F2F2;position: absolute;
+	height: 120px;
+	width: 220px;
+	right: -20px;
+	
+
+}
+.imp
+{
+	margin: 10px;
+	position: relative;
+	top: 80px;
+	left: 100px;
+	height: 70px;
+}
+.tfor
+{
+	position: relative;
+	top: 60px;
+}
+.bay
+{
+	position: relative;
+	left: 70px;
+}
+.bad
+{
+	position: relative;
+	right: 40px;
+}
+.pink2
+{
+	position: relative;
+	left: 90px;
+}
+
+.bbg
+{
+	color: white;
+	
+}
+
+.ppp
+{
+	position: relative;
+	left: 90px;
+}
+</style>
+
+
+
+
+
+
+
+

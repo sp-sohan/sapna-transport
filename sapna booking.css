@@ -1,0 +1,62 @@
+<style>
+.a
+{
+	position: relative;
+	top: 30px;
+}
+
+input 
+{
+	border-radius: 6px;
+	width: 200px;
+	border: 1px solid black;
+	position: relative;
+	left: 60px;
+}
+.jumbotron
+{
+	position: relative;
+	right: 15px;
+	top: 71px;
+	width: 1140px;
+}
+.nae
+{
+	position: relative;
+	bottom: 100px;
+	left: 100px;
+	width: 450px;
+	background-color:green;
+	color: white;
+	height: 40px;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+.nae:hover
+{
+	background-color: blue;
+}
+.b
+{
+	position: relative;
+	bottom: 50px;
+}
+h2
+{
+	font-family: Bodoni MT Black;
+	color: orange;
+}
+span
+{
+	position: relative;
+	left: 60px;
+}
+.col
+{
+	background-color: white;
+	opacity: 0.8;
+	 height: 200px;
+}
+
+</style>
